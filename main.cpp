@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  circle_calculate
-//
-//  Created by 박이경 on 2021/08/13.
-//
-
 #include <iostream>
 using namespace std;
 class Circle {
